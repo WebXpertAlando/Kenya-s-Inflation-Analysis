@@ -32,4 +32,7 @@ The inflation rate is the percentage change in the general price level of goods 
 #### Plot ACF and PACF for differenced series
 <img width="554" height="368" alt="Screenshot at 2025-09-15 11-40-41" src="https://github.com/user-attachments/assets/079bb0f8-9577-47b6-a8fa-55b60b06e35e" />
 
+### Prophet Forecasting
+
+<img width="910" height="406" alt="Screenshot at 2025-09-15 12-01-00" src="https://github.com/user-attachments/assets/128b2990-53bd-4218-9203-9d69efe7dec7" />
 
