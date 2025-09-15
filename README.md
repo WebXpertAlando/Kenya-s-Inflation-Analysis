@@ -8,7 +8,7 @@ The inflation rate is the percentage change in the general price level of goods 
 - Deploy the model to Streamlit
 
 ## Python Implementation
-Libraries Used 
+### Libraries Used: 
 - Pandas
 - Numpy
 - Seaborn
