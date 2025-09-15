@@ -17,4 +17,4 @@ Libraries Used
 - prophet
 
 ## Data Source: 
-["https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KE"]
+[https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KE]
