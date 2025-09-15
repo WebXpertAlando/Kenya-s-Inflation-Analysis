@@ -9,7 +9,7 @@ The inflation rate is the percentage change in the general price level of goods 
 
 ## Python Implementation
 Libraries Used 
-- pandas
+- Pandas
 - Numpy
 - Seaborn
 - Matplotlib
@@ -18,3 +18,7 @@ Libraries Used
 
 ## Data Source: 
 [https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KE]
+
+## Data Visualization
+### Annonate Line Chart With Event Markers
+<img width="552" height="362" alt="Screenshot at 2025-09-15 11-29-24" src="https://github.com/user-attachments/assets/aabdc3c4-72da-458c-bc21-93694ece5d14" />
